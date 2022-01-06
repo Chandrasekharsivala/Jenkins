@@ -14,3 +14,7 @@ sudo sh -c 'echo deb https://pkg.jenkins.io/debian-stable binary/ > \
   sudo systemctl start jenkins
   
   sudo systemctl status jenkins
+
+this file is modified to test the scm trigger in jenkins
+
+
