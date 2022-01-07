@@ -18,3 +18,4 @@ sudo sh -c 'echo deb https://pkg.jenkins.io/debian-stable binary/ > \
 this file is modified to test the scm trigger in jenkins
 
 
+the file moidified 07jan
