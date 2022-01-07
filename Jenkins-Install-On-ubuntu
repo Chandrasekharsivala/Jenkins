@@ -17,4 +17,11 @@ sudo sh -c 'echo deb https://pkg.jenkins.io/debian-stable binary/ > \
 
   this is the testing edit for jenkins build periodically scm
   
+<<<<<<< HEAD
 this file is modified on 07jan  
+=======
+  
+this file is modified to test the github webhook in jenkins
+
+the testing modification happen
+>>>>>>> 7432300466318a5a98dde5059e4cc184b942a736
